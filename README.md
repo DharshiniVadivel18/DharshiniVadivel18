@@ -1,163 +1,178 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:60A5FA,50:3B82F6,100:2563EB&text=Dharshini%20V&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Cloud%20%26%20DevOps%20Learner&descAlignY=60"/>
-
 # Dharshini V
 
 ### Full Stack Developer • AI Enthusiast • Cloud & DevOps Learner
 
-Building modern software with clean engineering and real-world impact.
+<img src="assets/profile.png" width="180" alt="Dharshini V" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Scalable+Applications;Learning+Playwright+%7C+Azure+%7C+DevOps;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+<p>
+Building software with clean architecture, practical solutions, and continuous learning.
+</p>
 
-<img src="assets/profile.jpg" width="200" style="border-radius:50%;" alt="Dharshini"/>
+<p>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-<br>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=3B82F6)
-![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=2563EB)
-![](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=60A5FA)
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-# 💙 About Me
+## About
 
-I'm passionate about building software that is scalable, efficient, and user-friendly. I enjoy learning new technologies, solving real-world problems, and continuously improving my development skills.
+I'm currently working as a Full Stack Developer Intern, where I'm gaining hands-on experience in building web applications and learning modern development practices.
 
-### 🚀 What I Do
+My current focus is on React, Node.js, Playwright with TypeScript, Azure, and DevOps. I enjoy building projects that combine software engineering with AI and automation while continuously improving my problem-solving skills.
 
-- 💻 Full Stack Development
-- 🤖 AI Applications
-- ☁️ Cloud Computing
-- ⚙️ DevOps
-- 🧪 Automation Testing
-- 📱 Responsive Web Applications
+Alongside development, I actively participate in hackathons and enjoy exploring new technologies through practical projects.
 
 ---
 
-# 💻 Tech Stack
+## Tech Stack
 
-## 👨‍💻 Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript"/>
 </p>
 
-## 🎨 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
 </p>
 
-## ⚙️ Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-## 🗄 Databases
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
 </p>
 
-## ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux"/>
 </p>
 
-## 🧪 Testing
+### Testing
 
-<p>
-<img src="https://skillicons.dev/icons?i=selenium"/>
-<img src="https://playwright.dev/img/playwright-logo.svg" width="48"/>
-</p>
-
-## 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,canva"/>
-</p>
+Playwright • TypeScript • Selenium
 
 ---
 
-# 🚀 Featured Projects
+## Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔐 **IDLOCK+** | AI-powered identity & document fraud detection | Python, React, MongoDB |
-| 📚 **StudyMate AI** | AI assistant for PDF question answering | Python, Streamlit, FAISS |
-| 🎓 **Smart Attendance System** | Desktop attendance management application | Python, Tkinter, MongoDB |
-| 🚨 **AI Women Safety** | Emergency alert & live location platform | Web, AI |
-| ⚡ **ChargeWise** | Smart EV charging station locator | React, Node.js |
-| 🚑 **Smart EMS** | IoT-based emergency medical service | IoT, Python |
+### IDLOCK+
 
----
+AI-powered identity and document verification system that combines OCR and computer vision to detect fraudulent documents.
 
-# 🏆 Achievements
+**Technology**
 
-🥉 3rd Prize – Creatothon
-
-🥈 2nd Prize – Freshathon
-
-💙 Vice President – WiCyS Student Chapter
-
-🏅 National Hackathon Participant
-
-🤝 NSS Volunteer
+Python • React • MongoDB • OCR
 
 ---
 
-# 📚 Currently Learning
+### StudyMate AI
+
+A document-based AI assistant that answers questions from uploaded PDF files using semantic search.
+
+**Technology**
+
+Python • Streamlit • FAISS • Hugging Face
+
+---
+
+### Smart Attendance System
+
+Desktop application for managing students and attendance with MongoDB integration, search, filtering, and CSV export.
+
+**Technology**
+
+Python • Tkinter • MongoDB
+
+---
+
+### AI Women Safety
+
+A safety platform designed to send emergency alerts, share location, and improve accessibility during emergencies.
+
+---
+
+### ChargeWise
+
+EV charging station locator with route planning and station discovery.
+
+---
+
+### Smart Emergency Medical Service
+
+IoT-based emergency response platform focused on faster accident detection and ambulance notification.
+
+---
+
+## Experience & Leadership
+
+- Full Stack Developer Intern
+- Vice President – WiCyS Student Chapter
+- NSS Volunteer
+
+---
+
+## Achievements
+
+- 3rd Place – Creatothon
+- 2nd Place – Freshathon
+- National Hackathon Participant
+
+---
+
+## Currently Learning
 
 - React.js
 - Node.js
 - Playwright with TypeScript
 - Microsoft Azure
 - DevOps
-- CI/CD
+- REST API Development
 - System Design
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🎯 Goals
-
-✅ Become an Excellent Full Stack Developer
-
-✅ Master Azure Cloud
-
-✅ Learn DevOps & CI/CD
-
-✅ Master Playwright Automation
-
-✅ Build AI-powered Applications
-
-✅ Contribute to Open Source
-
----
-
-# 📜 Certifications
+## Certifications
 
 - Cisco – Introduction to Cybersecurity
 - LetsDefend Labs
@@ -166,44 +181,12 @@ I'm passionate about building software that is scalable, efficient, and user-fri
 
 ---
 
-# 📫 Let's Connect
+## Connect
 
-<p align="center">
-
-<a href="https://github.com/DharshiniVadivel18">
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</a>
-
-
-
-<a href="https://www.linkedin.com/in/dharshini-vadivel/">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
-</a>
-
-
-
-<a href="mailto:dharshinivdharshiniv7@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-</p>
+- GitHub –https://github.com/DharshiniVadivel18
+- LinkedIn – https://www.linkedin.com/in/dharshini-vadivel/
+- Email – dharshinvdharshiniv7@gmail.com
 
 ---
 
-<div align="center">
-
-## 💡 Quote
-
-> **"Build with purpose. Learn continuously. Create impact."**
-
-⭐ Thank you for visiting my GitHub profile!
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:60A5FA,50:3B82F6,100:2563EB&section=footer"/>
-
-</div>
+> *"Keep building. Keep learning. Stay consistent."*
