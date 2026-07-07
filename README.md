@@ -1,162 +1,129 @@
-# <div align="center">
+<div align="center">
 
-# Hi 👋 I'm **Dharshini V**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:60A5FA,50:3B82F6,100:2563EB&text=Dharshini%20V&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Cloud%20%26%20DevOps%20Learner&descAlignY=60"/>
+
+# Dharshini V
 
 ### Full Stack Developer • AI Enthusiast • Cloud & DevOps Learner
 
-Building modern applications that are scalable, reliable, and user-focused.
+Building modern software with clean engineering and real-world impact.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Scalable+Applications;Learning+Playwright+%7C+Azure+%7C+DevOps;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+<img src="assets/profile.jpg" width="200" style="border-radius:50%;" alt="Dharshini"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&size=24\&pause=1200\&color=4F8EF7\&center=true\&vCenter=true\&width=700\&lines=Full+Stack+Developer;AI+Enthusiast;Learning+Playwright+%7C+Azure+%7C+DevOps;Building+Modern+Software)](https://git.io/typing-svg)
-
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=4F8EF7">
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square">
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square">
-
-</p>
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=3B82F6)
+![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=2563EB)
+![](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=60A5FA)
 
 </div>
 
 ---
 
-# About Me
+# 💙 About Me
 
-```yaml
-Name        : Dharshini V
-Role        : Full Stack Developer
-Location    : Tamil Nadu, India
+I'm passionate about building software that is scalable, efficient, and user-friendly. I enjoy learning new technologies, solving real-world problems, and continuously improving my development skills.
 
-Current Focus:
-  - Full Stack Development
-  - Artificial Intelligence
-  - Microsoft Azure
-  - DevOps
-  - Playwright Automation
-```
+### 🚀 What I Do
 
-I'm passionate about building software that combines clean engineering with practical solutions.
-
-I enjoy learning new technologies, contributing to projects, and continuously improving my development skills.
+- 💻 Full Stack Development
+- 🤖 AI Applications
+- ☁️ Cloud Computing
+- ⚙️ DevOps
+- 🧪 Automation Testing
+- 📱 Responsive Web Applications
 
 ---
 
-# Tech Stack
+# 💻 Tech Stack
 
-### Languages
+## 👨‍💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript"/>
 </p>
 
-### Frontend
+## 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
 </p>
 
-### Backend
+## ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-### Database
+## 🗄 Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
 </p>
 
-### Cloud & DevOps
+## ☁️ Cloud & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux"/>
 </p>
 
-### Testing
+## 🧪 Testing
 
-* Playwright
-* TypeScript
-* Selenium (Learning)
+<p>
+<img src="https://skillicons.dev/icons?i=selenium"/>
+<img src="https://playwright.dev/img/playwright-logo.svg" width="48"/>
+</p>
 
----
+## 🛠 Tools
 
-# Featured Projects
-
-## 🔹 IDLOCK+
-
-AI-powered identity and document fraud detection platform.
-
-**Technology**
-
-Python • React • MongoDB • OCR • AI
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,canva"/>
+</p>
 
 ---
 
-## 🔹 StudyMate AI
+# 🚀 Featured Projects
 
-AI assistant for asking questions directly from PDF documents.
-
-**Technology**
-
-Python • Streamlit • FAISS • Hugging Face
-
----
-
-## 🔹 Smart Attendance System
-
-Desktop attendance management system with MongoDB integration.
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🔐 **IDLOCK+** | AI-powered identity & document fraud detection | Python, React, MongoDB |
+| 📚 **StudyMate AI** | AI assistant for PDF question answering | Python, Streamlit, FAISS |
+| 🎓 **Smart Attendance System** | Desktop attendance management application | Python, Tkinter, MongoDB |
+| 🚨 **AI Women Safety** | Emergency alert & live location platform | Web, AI |
+| ⚡ **ChargeWise** | Smart EV charging station locator | React, Node.js |
+| 🚑 **Smart EMS** | IoT-based emergency medical service | IoT, Python |
 
 ---
 
-## 🔹 AI Women Safety
+# 🏆 Achievements
 
-Emergency assistance platform with live location and alerts.
+🥉 3rd Prize – Creatothon
 
----
-
-## 🔹 ChargeWise
-
-Smart EV charging station locator.
-
----
-
-## 🔹 Smart Emergency Medical Service
-
-IoT-powered accident detection and emergency response system.
-
----
-
-# Achievements
-
-🏆 Creatothon – 3rd Prize
-
-🥈 Freshathon – 2nd Prize
+🥈 2nd Prize – Freshathon
 
 💙 Vice President – WiCyS Student Chapter
 
-🤝 NSS Volunteer
-
 🏅 National Hackathon Participant
 
----
-
-# Currently Learning
-
-* React.js
-* Node.js
-* Playwright with TypeScript
-* Microsoft Azure
-* DevOps
-* REST APIs
+🤝 NSS Volunteer
 
 ---
 
-# GitHub Analytics
+# 📚 Currently Learning
+
+- React.js
+- Node.js
+- Playwright with TypeScript
+- Microsoft Azure
+- DevOps
+- CI/CD
+- System Design
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -174,21 +141,34 @@ IoT-powered accident detection and emergency response system.
 
 ---
 
-# Goals
+# 🎯 Goals
 
-* Build production-ready full stack applications
-* Gain expertise in Azure Cloud
-* Learn DevOps practices and CI/CD
-* Master Playwright automation
-* Contribute to open-source projects
-* Grow as a software engineer
+✅ Become an Excellent Full Stack Developer
+
+✅ Master Azure Cloud
+
+✅ Learn DevOps & CI/CD
+
+✅ Master Playwright Automation
+
+✅ Build AI-powered Applications
+
+✅ Contribute to Open Source
 
 ---
 
-# Connect With Me
+# 📜 Certifications
 
-<p align="left">
+- Cisco – Introduction to Cybersecurity
+- LetsDefend Labs
+- Microsoft Learn
+- Azure Learning Path
 
+---
+
+# 📫 Let's Connect
+
+<p align="center">
 
 <a href="https://github.com/DharshiniVadivel18">
 
@@ -216,4 +196,14 @@ IoT-powered accident detection and emergency response system.
 
 ---
 
-> **"Great software is built through continuous learning, thoughtful design, and consistent improvement."**
+<div align="center">
+
+## 💡 Quote
+
+> **"Build with purpose. Learn continuously. Create impact."**
+
+⭐ Thank you for visiting my GitHub profile!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:60A5FA,50:3B82F6,100:2563EB&section=footer"/>
+
+</div>
