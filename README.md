@@ -60,7 +60,7 @@ I'm a passionate **Full Stack Developer** with a strong drive to build things th
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DharshiniVadivel18/DharshiniVadivel18/main/assets/Dharshini_V 24SY011.svg" width="640" alt="Terminal Resume" />
+<img src="https://github.com/DharshiniVadivel18/DharshiniVadivel18/blob/main/assests/Dharshini_V%2024SY011.svg" width="640" alt="Terminal Resume" />
 
 </div>
 
