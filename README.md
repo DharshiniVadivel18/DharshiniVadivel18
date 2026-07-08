@@ -1,192 +1,264 @@
 <div align="center">
 
-# Dharshini V
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:10B981,100:6ee7b7&height=280&section=header&text=Dharshini%20Vadivel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### Full Stack Developer • AI Enthusiast • Cloud & DevOps Learner
+<br/>
 
-<img src="assets/profile.png" width="180" alt="Dharshini V" />
-
-<p>
-Building software with clean architecture, practical solutions, and continuous learning.
-</p>
-
-<p>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/dharshini-vadivel/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-10B981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="mailto:dharshinivdharshiniv7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://dharshinivadivel-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications+%F0%9F%9A%80;Exploring+AI+%26+Cloud%2C+one+project+at+a+time+%E2%98%81%EF%B8%8F;Turning+hackathon+ideas+into+real+products+%F0%9F%92%A1;Open+to+Internship+Opportunities+%F0%9F%8E%93" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=DharshiniVadivel18&label=Profile%20Views&color=10B981&style=flat-square" />
+<img src="https://img.shields.io/github/followers/DharshiniVadivel18?label=Followers&style=flat-square&color=10B981&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-10B981?style=flat-square&labelColor=0d1117" />
 
 </div>
 
----
+<br/>
 
-## About
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-I'm currently working as a Full Stack Developer Intern, where I'm gaining hands-on experience in building web applications and learning modern development practices.
+## 🌿 About Me
 
-My current focus is on React, Node.js, Playwright with TypeScript, Azure, and DevOps. I enjoy building projects that combine software engineering with AI and automation while continuously improving my problem-solving skills.
+<img align="right" width="290" src="https://raw.githubusercontent.com/ovi-tsuki/ovi-tsuki/output/snake.svg" />
 
-Alongside development, I actively participate in hackathons and enjoy exploring new technologies through practical projects.
+```typescript
+const dharshini = {
+    role: "Full Stack Developer",
+    location: "Coimbatore, Tamil Nadu, India",
+    status: "🎯 Open to Internship Opportunities",
 
----
+    focus: [
+        "Scalable Web Applications",
+        "AI-Powered Solutions",
+        "Cloud Computing",
+        "Automation Testing & Cybersecurity"
+    ],
 
-## Tech Stack
+    currentlyLearning: ["Cloud Architecture", "Advanced AI/ML Systems"],
+    funFact: "I turn hackathon weekends into production-ready ideas 💡"
+};
+```
 
-### Languages
+I'm a passionate **Full Stack Developer** with a strong drive to build things that matter — from scalable web applications to AI-driven systems that solve real-world problems. I thrive in the fast-paced, high-stakes energy of **hackathons**, and I bring that same intensity to continuous learning across **AI, Cloud Computing, and Cybersecurity**. I actively contribute to **open-source**, and I'm always looking for the next challenge that pushes my skills further.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript"/>
-</p>
+<br clear="right"/>
 
-### Frontend
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
-</p>
+## 🎯 Focus Areas
 
-### Backend
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
+### 🛠️ What I Build
+- ⚡ End-to-end **full-stack web applications**
+- 🤖 **AI-powered tools** for real-world problem solving
+- ☁️ **Cloud-native** and scalable backend systems
+- 🔐 **Automation & security-focused** testing pipelines
+- 🌐 Clean, responsive, production-ready **REST APIs**
 
-### Database
+</td>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
-</p>
+### 🌍 Domains I Work In
+- 💻 Software Development
+- 🧠 Artificial Intelligence
+- ☁️ Cloud Computing
+- 🧪 Automation Testing
+- 🎓 Education Technology
+- 🌐 Web Applications
 
-### Cloud & DevOps
+</td>
+</tr>
+</table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux"/>
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-### Testing
+## 🧰 Tech Stack
 
-Playwright • TypeScript • Selenium
+<div align="center">
 
----
+**Languages & Core**
 
-## Projects
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css&theme=dark" />
 
-### IDLOCK+
+<br/><br/>
 
-AI-powered identity and document verification system that combines OCR and computer vision to detect fraudulent documents.
+**Frontend & Frameworks**
 
-**Technology**
+<img src="https://skillicons.dev/icons?i=react,html,css,vscode&theme=dark" />
 
-Python • React • MongoDB • OCR
+<br/><br/>
 
----
+**Backend & Databases**
 
-### StudyMate AI
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postman&theme=dark" />
 
-A document-based AI assistant that answers questions from uploaded PDF files using semantic search.
+<br/><br/>
 
-**Technology**
+**Cloud, Testing & Tools**
 
-Python • Streamlit • FAISS • Hugging Face
+<img src="https://skillicons.dev/icons?i=azure,git,github,githubactions,playwright&theme=dark" />
 
----
+<br/><br/>
 
-### Smart Attendance System
+<img src="https://img.shields.io/badge/REST_APIs-10B981?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/AI_Applications-10B981?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Cloud_Computing-10B981?style=for-the-badge&logo=icloud&logoColor=white&labelColor=0d1117" />
 
-Desktop application for managing students and attendance with MongoDB integration, search, filtering, and CSV export.
+</div>
 
-**Technology**
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-Python • Tkinter • MongoDB
+## 🚀 Featured Projects
 
----
+<table width="100%">
 
-### AI Women Safety
+<tr>
+<td width="50%" valign="top">
 
-A safety platform designed to send emergency alerts, share location, and improve accessibility during emergencies.
+### 🔐 IDLOCK+
+**AI-Powered Document & Identity Fraud Detection**
 
----
+An intelligent system that leverages AI to detect fraudulent documents and identity forgery, helping secure digital verification processes.
 
-### ChargeWise
+`AI` `Computer Vision` `Security`
 
-EV charging station locator with route planning and station discovery.
+</td>
+<td width="50%" valign="top">
 
----
+### 📘 StudyMate
+**AI PDF Question Answering System**
 
-### Smart Emergency Medical Service
+An AI-driven assistant that reads PDFs and answers questions contextually — turning static documents into interactive study companions.
 
-IoT-based emergency response platform focused on faster accident detection and ambulance notification.
+`AI` `NLP` `EdTech`
 
----
+</td>
+</tr>
 
-## Experience & Leadership
+<tr>
+<td width="50%" valign="top">
 
-- Full Stack Developer Intern
-- Vice President – WiCyS Student Chapter
-- NSS Volunteer
+### 🎓 Smart Attendance Management System
+**Automated, Reliable Attendance Tracking**
 
----
+A full-stack solution that streamlines and automates attendance management with accuracy and a smooth user experience.
 
-## Achievements
+`Full Stack` `Automation`
 
-- 3rd Place – Creatothon
-- 2nd Place – Freshathon
-- National Hackathon Participant
+</td>
+<td width="50%" valign="top">
 
----
+### 🚑 Emergency Medical Response System
+**Faster Help When It Matters Most**
 
-## Currently Learning
+A responsive platform designed to coordinate and accelerate emergency medical assistance in critical situations.
 
-- React.js
-- Node.js
-- Playwright with TypeScript
-- Microsoft Azure
-- DevOps
-- REST API Development
-- System Design
+`Web App` `Real-Time Systems`
 
----
+</td>
+</tr>
 
-## GitHub Statistics
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
+### 🔋 ChargeWise
+**Smart EV Charging Station Locator**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+A location-based application that helps EV owners find nearby charging stations efficiently — built for a greener future.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+`Cloud` `Maps API` `Sustainability`
 
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
+### 🏴 CTFQuest
+**Capture The Flag Platform**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"/>
+An interactive cybersecurity platform for hosting and solving CTF challenges, built to sharpen practical security skills.
 
-</p>
+`Cybersecurity` `Full Stack`
 
----
+</td>
+</tr>
 
-## Certifications
+</table>
 
-- Cisco – Introduction to Cybersecurity
-- LetsDefend Labs
-- Microsoft Learn
-- Azure Learning Path
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/More_Projects-Visit_Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="More Projects" />
 
-## Connect
+</div>
 
-- GitHub –https://github.com/DharshiniVadivel18
-- LinkedIn – https://www.linkedin.com/in/dharshini-vadivel/
-- Email – dharshinvdharshiniv7@gmail.com
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
----
+## 📊 GitHub Statistics
 
-> *"Keep building. Keep learning. Stay consistent."*
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DharshiniVadivel18&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9&ring=10B981" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharshiniVadivel18&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=c9d1d9&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DharshiniVadivel18&theme=dark&hide_border=true&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DharshiniVadivel18&theme=react-dark&hide_border=true&bg_color=0d1117&color=10B981&line=10B981&point=ffffff&area=true&area_color=10B981" width="95%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm actively seeking **internship opportunities** where I can contribute, learn, and grow as a developer. If you're building something impactful in **Full Stack, AI, or Cloud**, let's talk!
+
+<a href="https://www.linkedin.com/in/dharshini-vadivel/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:dharshinivdharshiniv7@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://dharshinivadivel-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/DharshiniVadivel18">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<div align="center">
+
+### 💭 Closing Thoughts
+
+> *"Great developers aren't built in comfort zones — they're built in hackathons, late-night debugging sessions, and the relentless pursuit of 'what if I try this instead?'"*
+
+**Currently open to internship opportunities — let's build something great together. 🌱**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6ee7b7,50:10B981,100:064e3b&height=120&section=footer" width="100%"/>
+
+</div>
