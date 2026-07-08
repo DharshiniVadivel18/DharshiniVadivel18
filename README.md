@@ -65,22 +65,22 @@ I'm a passionate **Full Stack Developer** with a strong drive to build things th
 <td width="50%" valign="top">
 
 ### 🛠️ What I Build
-- ⚡ End-to-end **full-stack web applications**
-- 🤖 **AI-powered tools** for real-world problem solving
-- ☁️ **Cloud-native** and scalable backend systems
-- 🔐 **Automation & security-focused** testing pipelines
-- 🌐 Clean, responsive, production-ready **REST APIs**
+-  End-to-end **full-stack web applications**
+-  **AI-powered tools** for real-world problem solving
+-  **Cloud-native** and scalable backend systems
+-  **Automation & security-focused** testing pipelines
+-  Clean, responsive, production-ready **REST APIs**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌍 Domains I Work In
-- 💻 Software Development
-- 🧠 Artificial Intelligence
-- ☁️ Cloud Computing
-- 🧪 Automation Testing
-- 🎓 Education Technology
-- 🌐 Web Applications
+-  Software Development
+-  Artificial Intelligence
+-  Cloud Computing
+-  Automation Testing
+-  Education Technology
+-  Web Applications
 
 </td>
 </tr>
@@ -226,7 +226,7 @@ An interactive cybersecurity platform for hosting and solving CTF challenges, bu
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -251,7 +251,7 @@ I'm actively seeking **internship opportunities** where I can contribute, learn,
 
 <div align="center">
 
-### 💭 Closing Thoughts
+###  Closing Thoughts
 
 > *"Great developers aren't built in comfort zones — they're built in hackathons, late-night debugging sessions, and the relentless pursuit of 'what if I try this instead?'"*
 
