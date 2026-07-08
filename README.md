@@ -50,7 +50,7 @@ const dharshini = {
         "Advanced AI/ML Systems"
     ],
 
-    funFact: "I turn hackathon weekends into production-ready ideas 💡"
+    funFact: "I turn hackathon weekends into production-ready ideas "
 };
 ```
 
@@ -255,7 +255,7 @@ I'm actively seeking **internship opportunities** where I can contribute, learn,
 
 > *"Great developers aren't built in comfort zones — they're built in hackathons, late-night debugging sessions, and the relentless pursuit of 'what if I try this instead?'"*
 
-**Currently open to internship opportunities — let's build something great together. 🌱**
+**Currently open to internship opportunities — let's build something great together. **
 
 <br/>
 
