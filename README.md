@@ -32,8 +32,6 @@
 
 ## 🌿 About Me
 
-<img align="right" width="290" src="https://raw.githubusercontent.com/ovi-tsuki/ovi-tsuki/output/snake.svg" />
-
 ```typescript
 const dharshini = {
     role: "Full Stack Developer",
@@ -47,14 +45,16 @@ const dharshini = {
         "Automation Testing & Cybersecurity"
     ],
 
-    currentlyLearning: ["Cloud Architecture", "Advanced AI/ML Systems"],
+    currentlyLearning: [
+        "Cloud Architecture",
+        "Advanced AI/ML Systems"
+    ],
+
     funFact: "I turn hackathon weekends into production-ready ideas 💡"
 };
 ```
 
 I'm a passionate **Full Stack Developer** with a strong drive to build things that matter — from scalable web applications to AI-driven systems that solve real-world problems. I thrive in the fast-paced, high-stakes energy of **hackathons**, and I bring that same intensity to continuous learning across **AI, Cloud Computing, and Cybersecurity**. I actively contribute to **open-source**, and I'm always looking for the next challenge that pushes my skills further.
-
-<br clear="right"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
