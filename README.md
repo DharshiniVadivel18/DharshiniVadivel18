@@ -56,6 +56,14 @@ const dharshini = {
 
 I'm a passionate **Full Stack Developer** with a strong drive to build things that matter — from scalable web applications to AI-driven systems that solve real-world problems. I thrive in the fast-paced, high-stakes energy of **hackathons**, and I bring that same intensity to continuous learning across **AI, Cloud Computing, and Cybersecurity**. I actively contribute to **open-source**, and I'm always looking for the next challenge that pushes my skills further.
 
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DharshiniVadivel18/DharshiniVadivel18/main/assets/terminal-resume.svg" width="640" alt="Terminal Resume" />
+
+</div>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🎯 Focus Areas
@@ -226,6 +234,24 @@ An interactive cybersecurity platform for hosting and solving CTF challenges, bu
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
+## 🌐 Live Portfolio Preview
+
+<div align="center">
+
+<a href="https://dharshinivadivel-portfolio.netlify.app/">
+  <img src="https://api.microlink.io/?url=https://dharshinivadivel-portfolio.netlify.app/&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark&viewport.width=1440&viewport.height=900" width="90%" alt="Portfolio Live Preview" style="border-radius:12px; border: 1px solid #10B981;" />
+</a>
+
+<br/><br/>
+
+**🔗 [Explore the full interactive portfolio →](https://dharshinivadivel-portfolio.netlify.app/)**
+
+<sub>This preview updates automatically whenever the live site changes.</sub>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 ##  Let's Connect
 
 <div align="center">
@@ -251,11 +277,11 @@ I'm actively seeking **internship opportunities** where I can contribute, learn,
 
 <div align="center">
 
-###  Closing Thoughts
+### Closing Thoughts
 
 > *"Great developers aren't built in comfort zones — they're built in hackathons, late-night debugging sessions, and the relentless pursuit of 'what if I try this instead?'"*
 
-**Currently open to internship opportunities — let's build something great together. **
+**Currently open to internship opportunities — let's build something great together. 🌱**
 
 <br/>
 
